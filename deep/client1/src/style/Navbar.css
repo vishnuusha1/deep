@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Nerko+One&display=swap');
+.brand-logo{
+    font-family: 'Nerko One', cursive;
+    position: unset!important;
+    color: #fff;
+    display: inline-block;
+    font-size: 9.1rem;
+    padding: 0;
+}

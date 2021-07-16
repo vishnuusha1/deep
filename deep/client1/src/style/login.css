@@ -1,0 +1,12 @@
+.authcard{
+    text-align: center;
+    max-width: 400px;
+    padding: 20px;
+    margin: 10px auto;
+    margin-top: 70px;
+}
+#toast-container{
+    top:60px!important;
+    right: 100px !important;
+    left: auto !important;
+}

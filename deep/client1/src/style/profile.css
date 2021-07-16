@@ -1,0 +1,30 @@
+.image{
+    border-radius: 80px;
+    width: 160px;
+    height: 160px;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    margin: 18px 0px;
+    width: 600px;
+    margin-left: 350px;
+    margin-top: 40px;
+    border-bottom: 1px solid grey;
+}
+.follow{
+    display: flex;
+    justify-content: space-between;
+    width: 111%;
+}
+.gallery{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 600px;
+    margin-left: 350px;
+}
+.item{
+    width: 30%;
+    height: 25%;
+}
